@@ -1,5 +1,5 @@
 //images
-import Img from '../assets/about.png'
+import Img from '../assets/avatar.svg'
 //tipo de animação
 import { TypeAnimation } from 'react-type-animation'
 //motion
