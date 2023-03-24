@@ -10,7 +10,7 @@ import { Contact } from './components/Contact'
 
 export function App() {
   return (
-    <section className="bg-site bg-no-repeat bg-cover overflow-hidden">
+    <section className="bg-site bg-no-repeat bg-cover overflow-hidden bg-black/70">
       <Header />
       <Banner />
       <Nav />
